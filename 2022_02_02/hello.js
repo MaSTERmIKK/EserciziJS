@@ -1,4 +1,4 @@
-/* prova commento! */
+/* prova commento!! */
 // stabilisco che in a ci sarà una stringa di testo
 let a = "persona sconosciuta"
 
